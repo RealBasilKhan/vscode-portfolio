@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Uber Clone",
-    "image": "https://imgur.com/a/1J2eMiW.jpg",
+    "image": "https://imgur.com/a/1J2eMiW",
     "description": "An Uber Clone that allows you to navigate between two points on a map and show distance and fare between them",
     "tags": ["react", "node", "google places", "redux", "google distance matrix"],
     "source_code": "https://github.com/basilk76/uber-clone"
