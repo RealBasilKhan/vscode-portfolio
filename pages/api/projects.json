@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Uber Clone",
-    "image": "https://imgur.com/a/WTZPlV6.png",
+    "image": "https://imgur.com/a/WTZPlV6.jpg",
     "description": "An Uber Clone that allows you to navigate between two points on a map and show distance and fare between them",
     "tags": ["react", "node", "google places", "redux", "google distance matrix"],
     "source_code": "https://github.com/basilk76/uber-clone"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Algo-Blitz",
-    "image": "https://imgur.com/a/WES911n.png",
+    "image": "https://imgur.com/a/WES911n.jpg",
     "description": "A website that allows you to visualize algorithms such as quick sort, A* and more",
     "tags": ["react", "next", "p5.js", "vercel", "Tailwind CSS"],
     "source_code": "https://github.com/basilk76/Algo-blitz",
@@ -27,7 +27,7 @@
   {
     "id": 4,
     "name": "Google Docs Clone",
-    "image": "https://imgur.com/a/LoJb4kk.png",
+    "image": "https://imgur.com/a/LoJb4kk.jpg",
     "description": "A themeable and developer-centric portfolio based on the VSCode",
     "tags": ["next", "firebase", "next authentication", "google authentication"],
     "source_code": "https://github.com/basilk76/google-docs",
